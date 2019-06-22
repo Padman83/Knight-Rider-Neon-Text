@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    linear-gradient(179.79290772287277deg, rgba(95, 95, 95,1) -15.621193666260657%,rgba(0, 0, 0,1) 85.4750304506699%)
     background-size: auto 100%;
 }
 
