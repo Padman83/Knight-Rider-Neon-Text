@@ -3,6 +3,7 @@
 body {
     margin: 0;
     padding: 0;
+    background:#000000;
 }
 
 .knightrider-wrapper {
@@ -30,7 +31,7 @@ body {
 
 .knightrider-wrapper {
     display: inline-flex;
-    filter: brightness(220%);
+    filter: brightness(200%);
     overflow: hidden;
 }
 
