@@ -12,7 +12,6 @@ body {
     align-items: center;
     justify-content: center;
     background-size: auto 100%;
-    background:#000000;
 }
 
 
@@ -23,7 +22,6 @@ body {
 }
 
 .txt::before {
-    background:#000000;
     content: 'Knight Rider';
     position: absolute;
     mix-blend-mode: difference;
@@ -32,7 +30,7 @@ body {
 
 .knightrider-wrapper {
     display: inline-flex;
-    filter: brightness(200%);
+    filter: brightness(220%);
     overflow: hidden;
 }
 
