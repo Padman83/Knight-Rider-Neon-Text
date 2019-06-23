@@ -29,6 +29,7 @@ body {
     content: 'Knight Rider';
     position: absolute;
     mix-blend-mode: difference;
+    filter: blur(3px);
 }
 
 .knightrider-wrapper {
