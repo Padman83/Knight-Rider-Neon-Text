@@ -14,6 +14,7 @@ body {
     justify-content: center;
     linear-gradient(179.79290772287277deg, rgba(95, 95, 95,1) -15.621193666260657%,rgba(0, 0, 0,1) 85.4750304506699%);
     background-size: auto 100%;
+    background:#000000;
 }
 
 
@@ -24,6 +25,7 @@ body {
 }
 
 .txt::before {
+    background:#000000;
     content: 'Knight Rider';
     position: absolute;
     mix-blend-mode: difference;
@@ -32,7 +34,7 @@ body {
 
 .knightrider-wrapper {
     display: inline-flex;
-    filter: brightness(220%);
+    filter: brightness(200%);
     overflow: hidden;
 }
 
