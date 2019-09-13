@@ -16,4 +16,4 @@ Knight-Rider-Neon-Text Animation.
 
 ## Contact
 
-Project Link: [https://github.com/Padman83/Knight-Rider-Neon-Text] (https://github.com/Padman83/Knight-Rider-Neon-Text)
+Project Link: [https://github.com/Padman83/Knight-Rider-Neon-Text]
